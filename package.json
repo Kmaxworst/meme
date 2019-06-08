@@ -1,0 +1,14 @@
+{
+  "name": "meme-bot",
+  "version": "0.8.0",
+  "description": "Meme BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaxGaming & LucaYTPols",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
